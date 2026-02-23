@@ -1,0 +1,18 @@
+# Homelab public keys
+#
+# Format (same as keys.txt):
+# - SSH public keys (Ed25519, RSA, ECDSA, etc.): one key per line.
+#   Lines starting with 'ssh-ed25519', 'ssh-rsa', 'ecdsa-sha2-*' are SSH keys.
+# - GPG public keys: full ASCII-armored blocks between
+#   -----BEGIN PGP PUBLIC KEY BLOCK-----
+#   and
+#   -----END PGP PUBLIC KEY BLOCK-----
+#
+# This file can contain both; tools only read the format they understand.
+#
+# If this file is used directly as ~/.ssh/authorized_keys: OpenSSH ignores
+# lines starting with # and skips non-SSH lines (e.g. GPG blocks). Only
+# SSH key lines are used for login.
+#
+# Homelab keys are listed below (I am the only one who edits this file).
+
