@@ -16,3 +16,5 @@
 #
 # Homelab keys are listed below (I am the only one who edits this file).
 
+# control-1-1
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEFnJMufrNpZpXr+wIAs+yq3e4JWwBR6IzkphU1JYKYI control-1-1
