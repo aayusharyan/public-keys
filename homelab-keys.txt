@@ -16,5 +16,22 @@
 #
 # Homelab keys are listed below (I am the only one who edits this file).
 
-# control-1-1
+# control Servers
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEFnJMufrNpZpXr+wIAs+yq3e4JWwBR6IzkphU1JYKYI control-1-1
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGDg1bdlKR4+NGU0qg8b30WMEDPg4i1p4sVReHo7pcBu control-1-2
+
+# Compute Servers
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILnw+8PA3u9+FI1oPTJfs/rYnMOLTAMA0ARQsxLGYymC compute-1-1
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG/fq1yuB1V23IfSlXe22xy2cTlk7IObNgtE1/LKQc7F compute-1-2
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINqQE4hLEQQcVpqIhqa9uE/km1uMMDoW4FgyXN/no6uc compute-1-3
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJE00lEho07Ibs19e1PmArYf/8uzPi90tsb7dhe6sX6j compute-1-4
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE5jixA+bqXru+lrTgi5tQNLzPI82hCcINC/O0kAspb/ compute-1-5
+
+# Kubernetes Control (Master) Server
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFJ2jg9fSU2KvwRTTY7PvKWf90XgKRFob3zFw47c7nnk compute-1-41
+
+# Kuberneted Worker Servers
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILeSZxGbRyj7RyY65oOPWchMq9cX/PxSxhDgkqbQLdaL compute-1-51
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKk/GiqhU66yB+/awC2lyRsBnhaUqKCR9kfAos2eod/Q compute-1-52
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJuANrxSag2vVMvIPUmPcFvlNwa4B6n6PL8Ag0PIZ4/P compute-1-53
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEis7rzpavIEeO3CkKWK2kIvOVBtyV+eedoxgkxxr0zp compute-1-54
