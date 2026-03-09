@@ -17,7 +17,7 @@
 # Homelab keys are listed below (I am the only one who edits this file).
 
 # control Servers
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEFnJMufrNpZpXr+wIAs+yq3e4JWwBR6IzkphU1JYKYI control-1-1
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFp4psQ3bCsWS4H2poA2k7Iuhc7Z2JAoohmFpMO8F+GL control-1-1
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGDg1bdlKR4+NGU0qg8b30WMEDPg4i1p4sVReHo7pcBu control-1-2
 
 # Compute Servers
