@@ -16,3 +16,5 @@
 #
 # My keys are listed below (I am the only one who edits this file).
 
+# ROG-2 WSL
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHV66VkuUB1VTC3YdCzs8QWS+JhiaV70VcP5qDEN8110 aayush.aryan@me.com
